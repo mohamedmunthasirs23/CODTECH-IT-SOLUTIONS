@@ -100,5 +100,5 @@ Contact
 
 For questions or feedback, contact:
 
-Your Name: your.email@example.com
-GitHub Profile
+Your Name: mohamedmuntasirs.ug22.ad@francisxavier.ac.in
+GitHub Profile:
